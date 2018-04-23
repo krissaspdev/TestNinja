@@ -98,8 +98,7 @@ namespace TestNinja.UnitTests
 
             stack.Peek();
 
-            Assert.Equal(3, stack.Count);
-        
+            Assert.Equal(3, stack.Count);        
         }
     }
 }
